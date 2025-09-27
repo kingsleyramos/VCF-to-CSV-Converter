@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "iconv-lite": "^0.7.0",
+    "quoted-printable": "^1.0.1"
+  },
+  "type": "module"
+}
